@@ -8,12 +8,6 @@
 
 - 🔭 I’m currently working on [REACT JS]()
 
-
-
-
-- 
-
-
 - 💬 Ask me about ** web Development**
 
 - 📫 How to reach me ** shabithkms2035@gmail.com**
