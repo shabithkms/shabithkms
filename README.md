@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/shabithkms"><img src="https://github-profile-trophy.vercel.app/?username=shabithkms"alt="shabithkms" /></a> </p>
 
-- 🔭 I’m currently working on [REACT JS]()
+- 🔭 I’m currently working on [NEXT JS]()
 
 - 💬 Ask me about ** web Development**
 
-- 📫 How to reach me ** shabithkms2035@gmail.com**
+- 📫 How to reach me ** shabithkmuhammed@gmail.com**
 
 
 <p  align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shabithkms&show_icons=true&locale=en&layout=compact" alt="shabithkms"/></p>
